@@ -52,3 +52,5 @@ CCC solves this by providing:
 ```py
 # HACK: This is a quick fix for bug #123 🩹
 ```
+
+![Screenshot](screenshots.png)
