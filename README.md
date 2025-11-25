@@ -52,7 +52,7 @@ CCC solves this by providing:
 ```py
 # HACK: This is a quick fix for bug #123 🩹
 ```
-###VSCode Extension
+### VSCode Extension
 ![Screenshot](screenshots.png)
 [Install Here](https://marketplace.visualstudio.com/items?itemName=Chrisiisx.code-commenting-convention)
 
